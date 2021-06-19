@@ -8,7 +8,7 @@
 ## O que aprendi?
 ### - HTML
   - Tag head e meta
-  - Funções da tag img ** src="" e alt="" **
+  - Funções da tag // img // src="" e alt="" // 
   - Divisões em div, section, header, main e footer
   - Tag a e suas funções
   - Tag table e suas childs
@@ -27,7 +27,7 @@
   - Ordem de Leitura d código
   - Criar novas funções
   - Criar funcionalidades para novas funções
-  - * Priorizar a utilização do Inglês *
+  * Priorizar a utilização do Inglês
   - O uso do Template Literals ``
   - O uso de "const, let e var"
   - add e remove
